@@ -1,7 +1,7 @@
 # neural-network
 Utilities for NN
 
-# NN cutting
+# NN cutting utility
 
 **Input:** The user has a NN that can recognize numbers from 0 to 9.
 
